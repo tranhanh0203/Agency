@@ -1,0 +1,628 @@
+body {}
+
+.footer1 {
+    background: url("../img/ft1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+.template {
+    font-weight: bold;
+    font-size: 65px;
+    color: white;
+    margin-top: 180px;
+}
+
+.ft1_lr {
+    font-size: 20px;
+    color: white;
+    padding-right: 80px;
+}
+
+.btn_readmore {
+    font-size: 14px;
+    color: #a031dd;
+    border-radius: 50px;
+    padding: 15px 30px;
+    border: solid white;
+    font-weight: bold;
+    background-color: white;
+
+}
+
+.footer2 h2 {
+
+    font-weight: bold;
+}
+
+.footer2 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.ft2_lr {
+    color: rgb(100, 96, 96);
+    margin: 0 400px;
+    font-size: 20px;
+}
+
+.footer3 {
+    margin-top: 50px;
+}
+
+.ft3_lr {
+    margin-top: 10px;
+    color: rgb(100, 96, 96);
+    font-size: 20px;
+}
+
+.outVision {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.outVS_name {
+    font-weight: bold;
+    color: #a031dd;
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+.outVS_content {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.check {
+    font-size: 20px;
+}
+
+.mxh {
+    background: url('../img/cta@bg-22.png');
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 70px;
+}
+
+.youtube {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.webflow {
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.facebook {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.outService {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.outService h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.function {
+    margin-top: 100px;
+}
+
+.design {
+    background-color: rgb(241, 238, 238);
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.Business {
+    background-color: rgb(241, 238, 238);
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.Technology {
+    background-color: rgb(241, 238, 238);
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.Development {
+    background-color: rgb(241, 238, 238);
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.emailDesign {
+    margin-top: 100px;
+}
+
+.view {
+    background: url('../img/cta@bg-22.png');
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 70px;
+    margin-top: 100px;
+
+}
+
+.item_view {
+    text-align: center;
+}
+
+.item_view h1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: math;
+    color: white;
+
+}
+
+.item_view p {
+    font-size: 25px;
+    font-family: inherit;
+    color: white;
+    font-weight: 400;
+}
+
+.product {
+    margin-top: 100px;
+}
+
+.work {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.work_item {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    padding-top: 10px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.work_icon {
+    width: 30px;
+
+}
+
+.work-lr {
+    font-size: 20px;
+    color: rgb(100, 96, 96);
+}
+
+.work-name {
+    font-weight: bold;
+    color: #a031dd;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.work-left h3 {
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.work-loadmore {
+    font-size: 14px;
+    color: white;
+    border-radius: 50px;
+    padding: 15px 40px;
+    border: solid #a031dd;
+    font-weight: 500;
+    background-color: #a031dd;
+}
+
+.work-right {
+    padding-left: 40px;
+}
+
+.contact {
+    background: url("../img/bg_contact.png");
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+
+}
+
+.ct_name {
+    font-weight: bold;
+    font-size: 65px;
+    color: white;
+    margin-top: 100px;
+}
+
+.ct_lr {
+    font-size: 20px;
+    color: white;
+    padding-right: 80px;
+}
+
+.ct_readmore {
+    font-size: 14px;
+    color: #a031dd;
+    border-radius: 50px;
+    padding: 15px 35px;
+    border: solid white;
+    font-weight: bold;
+    background-color: white;
+}
+
+.outTeam {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.outTeam h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.item_people {
+    text-align: center;
+}
+
+.item_people h3 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.position_work {
+    color: rgb(100, 96, 96);
+    font-size: 23px;
+}
+
+.icon_people {
+    width: 45px;
+    margin-right: 12px;
+}
+
+.comment {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.assess {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item_comment {
+    border-radius: 10px;
+    background-color: rgb(241, 238, 238);
+    padding: 50px 60px;
+}
+
+.contactUs {
+    background: url("../img/CTA-Left-Info-BG-Img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.outNew {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.outNew h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.post {
+    margin-bottom: 100px;
+}
+
+.title_post {
+    margin-top: 20px;
+}
+
+.title_post h1 {
+    font-weight: bold;
+
+}
+
+.description {
+    margin: 20px 0;
+    color: rgb(100, 96, 96);
+    font-size: 20px;
+}
+
+.founder {
+    margin-bottom: 100px;
+}
+
+.header {
+    background: black;
+    padding: 50px 0;
+}
+
+.logo_header p {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.logo_header img {
+    margin-right: 15px;
+}
+
+.contactInfo h3 {
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.contactInfo p {
+    font-size: 20px;
+    color: white;
+}
+
+.moreLink h3 {
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.moreLink p {
+    font-size: 20px;
+    color: white;
+}
+
+.hr_ft {
+    background: white;
+    height: 5px;
+    margin: 40px 0;
+}
+
+.end_ft .col-md-8 .col-md-4 {
+    font-size: 20px;
+    color: white;
+}
+
+.DongHo {
+    padding-left: 80px;
+}
+
+.post_img {
+    width: 550px;
+}
+
+.fd_img {
+    width: 550px;
+}
+
+@media screen and (max-width: 768px) {
+
+
+    .footer1 {
+        background: url(../img/ft1.png);
+        width: 100%;
+    }
+
+    .template {
+        font-size: 21px;
+        margin-top: 180px;
+    }
+
+    .ft1_lr {
+        font-size: 11px;
+        padding-right: 4px;
+    }
+
+    .footer2 {
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .ft2_lr {
+        margin: 0 10px;
+        font-size: 14px;
+    }
+
+    .ft3 {
+        width: 270px;
+    }
+
+    .btn_readmore {
+        font-size: 10px;
+        padding: 11px 26px;
+
+    }
+
+    .ft3_lr {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .outVS_name {
+        font-size: 14px;
+        margin-top: 150px;
+    }
+
+    .outVS_content {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+
+    .check {
+        font-size: 15px;
+    }
+
+    .mxh {
+        background: url(../img/cta@bg-22.png);
+        height: 300px;
+        width: 100%;
+        padding-top: 60px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .youtube {
+        font-size: 43px;
+    }
+
+    .webflow {
+        font-size: 43px;
+    }
+
+    .facebook {
+        font-size: 43px;
+    }
+
+    .item_view h1 {
+        font-size: 45px;
+
+    }
+
+    .item_view p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .view {
+        background: url('../img/cta@bg-22.png');
+        height: 600px;
+        width: 100%;
+        padding-top: 60px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+
+    .binhGom {
+        width: 200px;
+        height: 200px;
+    }
+
+    .den {
+        width: 200px;
+        height: 200px;
+        margin-top: 20px;
+    }
+
+    .thap {
+        width: 200px;
+        height: 200px;
+    }
+
+    .DongHo {
+        width: 200px;
+        height: 200px;
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+
+    .work-lr {
+        font-size: 20px;
+
+    }
+
+    .work-name {
+        font-size: 14px;
+        margin-top: 100px;
+    }
+
+    .work-left h3 {
+        font-size: 26px;
+    }
+
+    .work-loadmore {
+        font-size: 14px;
+        padding: 15px 40px;
+    }
+
+    .work-right {
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+
+    .contact {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 600px;
+        width: 100%;
+    }
+
+    .ct_name {
+        font-size: 30px;
+        width: 270px;
+    }
+
+    .ct_lr {
+        font-size: 14px;
+
+    }
+
+    .ct_readmore {
+        font-size: 10px;
+        padding: 11px 26px;
+    }
+
+    .contactUs {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 600px;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .post_img {
+        width: 300px;
+    }
+
+    .fd_img {
+        width: 300px;
+    }
+}
